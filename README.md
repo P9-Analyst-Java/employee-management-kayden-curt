@@ -1,4 +1,5 @@
-# employee-management-kayden-curt
-employee-management-kayden-curt created by GitHub Classroom
-Added Employee Portal Management in master branch
-Added Shopping Cart Application in shopping_cart branch
+# SpringBoot Assessments
+1. Employee Portal Management - Spring Boot
+  * Added Employee Portal Management in ```master``` branch 
+2. Shopping Cart Application - Spring Boot + Microservices
+  * Added Shopping Cart Application in ```shopping_cart``` branch
